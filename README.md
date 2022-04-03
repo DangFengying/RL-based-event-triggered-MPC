@@ -5,7 +5,7 @@ This is official implementation of our paper: Event-Triggered Model Predictive C
 ## Algorithms
 
 All the rule-based/RL algorithms included in our RL-eMPC framework.
-- [x] Threshold-based: TBD.
+- [x] Threshold-based.
 - [x] LSTDQ.
 - [x] DQN.
 - [x] DDQN.
