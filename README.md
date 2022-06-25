@@ -1,6 +1,6 @@
 # RL-based-event-triggered-MPC
 
-This is official implementation of our paper: Event-Triggered Model Predictive Control with Off-policy Reinforcement Learning.
+This is official implementation of our paper: Event-Triggered Model Predictive Control with Deep Reinforcement Learning.
 
 ## Installation
 - create a anaconda environment via: `conda create -n empc python=3.8 -y`
