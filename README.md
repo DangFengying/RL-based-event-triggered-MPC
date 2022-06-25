@@ -16,7 +16,7 @@ All the rule-based/RL algorithms included in our RL-eMPC framework.
 - [x] DQN.
 - [x] DDQN.
 - [x] DQN/DDQN + PER (prioritized experience buffer) + LSTM
-- [ ] A2C (Discrete)
+- [x] A2C (Discrete)
 - [x] PPO (Discrete)
 - [x] SAC (Discrete)
 
