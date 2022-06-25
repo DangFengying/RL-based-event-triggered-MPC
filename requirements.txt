@@ -1,0 +1,8 @@
+torch
+casadi
+mpctools
+matplotlib
+gym
+tensorboard
+pyyaml
+numpy==1.19.1
